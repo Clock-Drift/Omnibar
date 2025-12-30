@@ -31,14 +31,6 @@ A fast, minimal Spotlight-like command palette for switching tabs, searching his
 | `Enter` | Select result |
 | `Escape` | Close |
 
-## Scopes
-
-| Scope | Description |
-|-------|------|-------------|
-| **Tabs** | Search and switch between open tabs |
-| **History** | Search your browsing history |
-| **Web** | Enter a URL or search Google |
-
 
 ## Tech
 
