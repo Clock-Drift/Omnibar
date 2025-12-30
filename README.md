@@ -2,7 +2,7 @@
 
 A fast, minimal Spotlight-like command palette for switching tabs, searching history, and web navigation.
 
-![Omnibar](images/omnibar-icon.png)
+![Omnibar](omnibar.png)
 
 ## Features
 
