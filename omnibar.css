@@ -2,7 +2,7 @@
   --ease-spring: cubic-bezier(0.34, 1.56, 0.64, 1);
   --anim-duration: 0.25s;
 
-  --omni-bg: rgba(30, 30, 30, 0.92);
+  --omni-bg: rgba(73, 73, 73, 0.92);
   --omni-border: rgba(255, 255, 255, 0.1);
   --omni-inner-glow: rgba(255, 255, 255, 0.05);
   --omni-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
@@ -125,7 +125,7 @@
   width: 100%;
   font-family: inherit;
   font-size: 20px;
-  font-weight: 600;
+  font-weight: 500;
   color: var(--omni-text);
   background: none;
   border: none;
@@ -190,8 +190,8 @@
 .omnibar-item-text {
   flex: 1;
   min-width: 0;
-  font-size: 16px;
-  font-weight: 400;
+  font-size: 18px;
+  font-weight: 500;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
